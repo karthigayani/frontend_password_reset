@@ -1,5 +1,5 @@
 export const config = {
-    api: "http://localhost:4000",
+    api: "https://backend-password-reset-seven.vercel.app",
 }
 
 //for local    http://localhost:4000
